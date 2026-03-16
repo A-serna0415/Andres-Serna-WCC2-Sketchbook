@@ -1,8 +1,8 @@
-### _SK3TCHB00K_WCC2 :notebook:
-# _ANDRÉS_SERNA
+# _SK3TCHB00K_WCC2 :notebook:
+### _ANDRÉS_SERNA
 
 *Art is not about what you see, but about what you make others see.*
-                                                     - *Edgar Degas*
+                                                     *- *Edgar Degas*
 
 ## 00_ST4T3MENT
 
