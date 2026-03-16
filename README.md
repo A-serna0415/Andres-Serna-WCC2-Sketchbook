@@ -9,7 +9,17 @@ _- Edgar Degas_
 
 ## 0_ST4TEM3NT
 
-Statement here 350 - 500 words.
+My practice-based research sits at the intersection of computational art, interaction design, and system-based thinking. I am particularly interested in how digital technologies can transform everyday gestures, data, or routines into expressive artistic systems. Throughout this module, the workshops allowed me to explore these ideas through a series of small prototypes, ranging from gamified productivity tools and networked drawing applications to experiments in data visualization and machine learning.
+
+A recurring interest in my work is the translation of non-artistic inputs into creative outputs. In To_Do_List_RPG, for instance, I explored how everyday tasks could be reframed as game mechanics that influence the growth of a virtual agent. Similarly, my motion-based painting prototype experimented with the gyroscopic sensors of mobile devices, translating bodily movement into collaborative visual gestures. These experiments allowed me to reflect on how interaction design can transform ordinary actions—such as completing a task, moving a device, or generating data—into meaningful aesthetic experiences.
+
+Another key area of interest in my practice is the use of data as an artistic material. I am fascinated by the possibility of shaping information into visual, spatial, or interactive forms that produce alternative narratives and poetic interpretations of knowledge. This perspective also informs my interest in personal knowledge systems, where datasets, memories, and ideas could be organized within dynamic digital structures that function as both archives and creative environments.
+
+For my final project in this module, I plan to continue developing an idea that has been evolving in my practice for several years: a system that converts facial gestures into sound. The concept originated during my undergraduate studies in Colombia, when my technical resources were limited and the project remained relatively constrained. Now, with access to new tools and research environments, I see the possibility of expanding this idea into a more sophisticated interactive instrument.
+
+Technically, I intend to develop the system using computer vision techniques alongside real-time media environments such as TouchDesigner, as well as machine learning libraries like MediaPipe. I am also interested in strengthening my understanding of AI-oriented programming languages—particularly Python—in order to build more flexible and robust gesture-recognition systems.
+
+Conceptually, the project explores the human face as a performative interface. By mapping facial landmarks and micro-gestures to sonic parameters, I aim to create an instrument capable of generating improvised “facial symphonies.” Through this work, I hope to investigate broader questions about embodiment, expressive interfaces, and the relationship between human gesture and computational interpretation.
 
 
 ## 01_P1N_UP_S3SSI0N_W0RK5HOP
