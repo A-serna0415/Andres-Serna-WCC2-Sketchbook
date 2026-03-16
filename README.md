@@ -130,7 +130,7 @@ GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop3_
 Finally, the fourth workshop immersed us directly in the world of machine learning and computer vision using p5.js as the main framework. It was a fascinating experience that allowed me to further explore ideas I had already been developing around artificial intelligence and large language models applied to creative projects.
 
 ![img1](assets/workshop4/img1.png)
-*Screenshot about Sound Face app first interaction beforesound starts*
+*Screenshot about Sound Face app first interaction before sound starts*
 
 ### C0RE_C0NC3PT
 
