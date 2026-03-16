@@ -145,7 +145,7 @@ Leveraging the ml5.js API, the system detects faces through the webcam and captu
 
 ## DEV3L0PM3NT
 
-The idea of transforming facial gestures into sound is not new to me. It first emerged during my undergraduate studies in Colombia, when my technical resources were limited and the project remained quite constrained. Now, after nearly a year in this master’s program, I see the potential to expand it using interactive design and computer vision tools. I envision developing this facial instrument at a larger scale, using multiple cameras and screens to create improvised “symphonies” generated from facial movement.
+As I mentioned before in my reflection, the idea of transforming facial gestures into sound is not new to me. It first emerged during my undergraduate studies in Colombia, when my technical resources were limited and the project remained quite constrained. Now, after nearly a year in this master’s program, I see the potential to expand it using interactive design and computer vision tools. I envision developing this facial instrument at a larger scale, using multiple cameras and screens to create improvised “symphonies” generated from facial movement.
 
 ## L1NK
 
