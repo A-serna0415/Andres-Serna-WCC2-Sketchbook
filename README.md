@@ -63,7 +63,8 @@ The idea was simple, to turn small personal gestures into a collective drawing, 
 
 Built with p5.js, Node.js, Express, and WebSockets the users steer the brush by tilting their phone, and multiple people can join at the same time to leave marks on the same shared canvas.
 
-<img src="assets/workshop2/IMG_2196.PNG" width="50" height="180">
+<img src="assets/workshop2/IMG_2196.PNG" width="720">
+
 ![01](assets/workshop2/IMG_2196.PNG)
 ![02](assets/workshop2/IMG_2197.PNG)
 ![03](assets/workshop2/IMG_2199.PNG)
