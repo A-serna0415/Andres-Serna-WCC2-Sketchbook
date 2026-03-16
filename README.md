@@ -63,12 +63,11 @@ The idea was simple, to turn small personal gestures into a collective drawing, 
 
 Built with p5.js, Node.js, Express, and WebSockets the users steer the brush by tilting their phone, and multiple people can join at the same time to leave marks on the same shared canvas.
 
-<img src="assets/workshop2/IMG_2196.PNG" width="720">
+<img src="assets/workshop2/IMG_2196.PNG" width="500">
+<img src="assets/workshop2/IMG_2197.PNG" width="500">
+<img src="assets/workshop2/IMG_2199.PNG" width="500">
+<img src="assets/workshop2/IMG_2201.PNG" width="500">
 
-![01](assets/workshop2/IMG_2196.PNG)
-![02](assets/workshop2/IMG_2197.PNG)
-![03](assets/workshop2/IMG_2199.PNG)
-![04](assets/workshop2/IMG_2201.PNG)
 *Stills about the app being used.*
 
 ## DEV3L0PM3NT
