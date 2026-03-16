@@ -93,9 +93,9 @@ The third workshop was particularly interesting to me, as it focused on data vis
 
 This is a personal dataset dynamic atlas about some of the web references I have archived over a few years. Each node represents a specific category for the reference. The user can navigates the dynamic atlas and explore each reference as much as they like. Made with p5.js, JSON files and Node.js. I took the bookmarks data stored in my browsers (Safari and Chrome), went through a selection process, and transferred the data into a JSON file.
 
-<img src="sketchbook/assets/workshop3/IMG_2134.heic" width="300">
-<img src="sketchbook/assets/workshop3/IMG_2135.heic" width="300">
-<img src="sketchbook/assets/workshop3/IMG_2136.heic" width="300">
+<img src="assets/workshop3/IMG_2134.heic" width="300">
+<img src="assets/workshop3/IMG_2135.heic" width="300">
+<img src="assets/workshop3/IMG_2136.heic" width="300">
 
 *Some sketches about the GUI and general visual language for the data representation*
 
