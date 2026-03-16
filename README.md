@@ -11,7 +11,7 @@ _- Edgar Degas_
 
 My practice-based research sits at the intersection of computational art, interaction design, and system-based thinking. I am particularly interested in how digital technologies can transform everyday gestures, data, or routines into expressive artistic systems. Throughout this module, the workshops allowed me to explore these ideas through a series of small prototypes, ranging from gamified productivity tools and networked drawing applications to experiments in data visualization and machine learning.
 
-A recurring interest in my work is the translation of non-artistic inputs into creative outputs. In To_Do_List_RPG, for instance, I explored how everyday tasks could be reframed as game mechanics that influence the growth of a virtual agent. Similarly, my motion-based painting prototype experimented with the gyroscopic sensors of mobile devices, translating bodily movement into collaborative visual gestures. These experiments allowed me to reflect on how interaction design can transform ordinary actions—such as completing a task, moving a device, or generating data—into meaningful aesthetic experiences.
+A recurring interest in my work is the translation of non-artistic inputs into creative outputs. In my Pin-Up session project, for instance, I explored how everyday tasks could be reframed as game mechanics that influence the growth of a virtual agent. Similarly, my motion-based painting prototype experimented with the gyroscopic sensors of mobile devices, translating bodily movement into collaborative visual gestures. These experiments allowed me to reflect on how interaction design can transform ordinary actions—such as completing a task, moving a device, or generating data—into meaningful aesthetic experiences.
 
 Another key area of interest in my practice is the use of data as an artistic material. I am fascinated by the possibility of shaping information into visual, spatial, or interactive forms that produce alternative narratives and poetic interpretations of knowledge. This perspective also informs my interest in personal knowledge systems, where datasets, memories, and ideas could be organized within dynamic digital structures that function as both archives and creative environments.
 
@@ -154,4 +154,7 @@ GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop_4
 
 ## R3FER3NCE5
 
+- Bulger, E., 2026. p5.js sketches. Available at: https://editor.p5js.org/erikabulger/sketches
+- Ortiz, S., 2026. Moebio. Available at: https://moebio.com
+- Shiffman, D., 2012. The Nature of Code: Simulating Natural Systems with Processing. [ebook] Available at: https://natureofcode.com/ (Chapters 10–11).
 
