@@ -48,7 +48,6 @@ Despite the apparent simplicity of the setup, I quickly realized that details li
 GitHub Repo to code and documentation: https://github.com/A-serna0415/wcc2-workshop-1.git 
 
 
-
 ## 02_TILT_PAINTER_W0RK5HOP
 
 The second workshop drew inspiration from the lab exercises on networking and hosting a project on the web. I found myself strongly influenced by the gyroscopic mechanisms in phones and wanted to explore gesture, movement, time, and collaboration among multiple authors by designing a simple painting application that uses motion and gesture as brushes.
@@ -57,7 +56,7 @@ The second workshop drew inspiration from the lab exercises on networking and ho
 *First sketch about idea, interaction and design.*
 
 
-### C0NC3PT_PROCE55
+### C0RE_C0NC3PT
 
 The idea was simple, to turn small personal gestures into a collective drawing, where motion becomes a shared, temporary language.
 
@@ -74,8 +73,51 @@ Built with p5.js, Node.js, Express, and WebSockets the users steer the brush by 
 
 Several technical issues emerged while implementing the networked system. The volume of data sent to the server caused occasional lag, and the browser often denied access to the phone’s gyroscope. In future iterations, I am interested in exploring facial detection—using gestures like head tilts to control the brush—and considering faster server solutions to improve stability.
 
+### L1NK
+
+GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop-2-tilt-painter.git
 
 
+## 03_B00kM4RK5_PER5ONA1_ATlA5_W0RK5HOP
+
+The third workshop was particularly interesting to me, as it focused on data visualization and dynamic, interactive mappings. I am fascinated by the idea of using data as an artistic material, where datasets can be transformed into sculptures, paintings, or interactive experiences that offer new ways of representing and interpreting information.
+
+![atlas general view](assets/workshop3/img1.png)
+*Bookmarks atlas general view.*
+
+![Close up to the node's UI](assets/workshop3/img2.png)
+*Close up to the node's UI.*
+
+
+### C0RE_C0NC3PT
+
+This is a personal dataset dynamic atlas about some of the web references I have archived over a few years. Each node represents a specific category for the reference. The user can navigates the dynamic atlas and explore each reference as much as they like. Made with p5.js, JSON files and Node.js. I took the bookmarks data stored in my browsers (Safari and Chrome), went through a selection process, and transferred the data into a JSON file.
+
+<img src="sketchbook/assets/workshop3/IMG_2134.heic" width="300">
+<img src="sketchbook/assets/workshop3/IMG_2135.heic" width="300">
+<img src="sketchbook/assets/workshop3/IMG_2136.heic" width="300">
+
+*Some sketches about the GUI and general visual language for the data representation*
+
+## IN5PIR4TI0N
+
+The main idea for this project takes inspiration from "personal Knowledge database" project by the colombian artist and data scientist Santiago Ortiz.
+
+![inspiration](assets/workshop3/img3.png)
+*Screenshot project "personal Knowledge database" by Santiago Ortiz.*
+
+## DEV3L0PM3NT
+
+I see the development of this project as an opportunity to apply its logic and design to other data narrative and poetic systems I want to explore. For instance, I am interested in creating my own personal knowledge archive, a kind of “mental palace” database where I store not only information, but also memories and ideas.
+
+## L1NK
+
+GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop3_bookmarks_atlas.git
+
+
+## 04_S0UN_F4C3_W0RK5HOP
+
+Finally, the fourth workshop immersed us directly in the world of machine learning and computer vision using p5.js as the main framework. It was a fascinating experience that allowed me to further explore ideas I had already been developing around artificial intelligence and large language models applied to creative projects.
 
 
 
