@@ -93,9 +93,9 @@ The third workshop was particularly interesting to me, as it focused on data vis
 
 This is a personal dataset dynamic atlas about some of the web references I have archived over a few years. Each node represents a specific category for the reference. The user can navigates the dynamic atlas and explore each reference as much as they like. Made with p5.js, JSON files and Node.js. I took the bookmarks data stored in my browsers (Safari and Chrome), went through a selection process, and transferred the data into a JSON file.
 
-<img src="assets/workshop3/IMG_2134.heic" width="300">
-<img src="assets/workshop3/IMG_2135.heic" width="300">
-<img src="assets/workshop3/IMG_2136.heic" width="300">
+<img src="assets/workshop3/IMG_2134.heic" width="350">
+<img src="assets/workshop3/IMG_2135.heic" width="350">
+<img src="assets/workshop3/IMG_2136.heic" width="350">
 
 *Some sketches about the GUI and general visual language for the data representation*
 
@@ -119,10 +119,29 @@ GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop3_
 
 Finally, the fourth workshop immersed us directly in the world of machine learning and computer vision using p5.js as the main framework. It was a fascinating experience that allowed me to further explore ideas I had already been developing around artificial intelligence and large language models applied to creative projects.
 
+![img1](assets/workshop4/img1.png)
+*Screenshot about Sound Face app first interaction beforesound starts*
+
+### C0RE_C0NC3PT
+
+This is an interactive computer vision system developed with p5.js, ml5.js, and the p5.sound library. Its core concept is to translate human facial gestures into a sound instrument.
+
+Leveraging the ml5.js API, the system detects faces through the webcam and captures the coordinates and distances of each facial landmark. These numerical measurements are then mapped into sound using the p5.sound library.
+
+![img2](assets/workshop4/img2.png)
+![img3](assets/workshop4/img3.png)
+![img4](assets/workshop4/img4.png)
+*Stills about interaction with the facial instrument app*
+
+## DEV3L0PM3NT
+
+The idea of transforming facial gestures into sound is not new to me. It first emerged during my undergraduate studies in Colombia, when my technical resources were limited and the project remained quite constrained. Now, after nearly a year in this master’s program, I see the potential to expand it using interactive design and computer vision tools. I envision developing this facial instrument at a larger scale, using multiple cameras and screens to create improvised “symphonies” generated from facial movement.
+
+## L1NK
+
+GitHub Repo to code and documentation: https://github.com/A-serna0415/workshop_4_Sound_Face.git
 
 
-
-
-
+## R3FER3NCE5
 
 
